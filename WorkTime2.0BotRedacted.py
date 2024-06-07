@@ -8,7 +8,7 @@ from telebot import types
 from openpyxl import load_workbook
 
 #Bot token
-bot = telebot.TeleBot('6482401483:AAGfjUM6u6BJuCz0KJ1V5fLcEr_o1yLKaLI')
+bot = telebot.TeleBot('.')
 
 worker_dict = {'userid': {'userid_saving': None, #айди пользователя
                           'username': None, #ФИО пользователя
